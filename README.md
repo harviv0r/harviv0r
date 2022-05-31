@@ -1,4 +1,4 @@
-### Hi there 👋
+### harviv0r
 
 <!--
 **harviv0r/harviv0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Just a guy who loves technology💻👾, I'm an IT Engineer with aptitude for frontend development.
+...and the goal is to become a -Senior Frontend Engineer- 🧑‍💻
+
+This is my Portfolio, here you will find information related to software development, personal projects and more...
+
+console.log(`"Hello world" and... Welcome`)
+
