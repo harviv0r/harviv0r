@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 This is my Portfolio, here you will find information related to software development, personal projects and more...
 
-console.log(`"Hello world" and... Welcome`)
+console.log(`'"Hello world" and... Welcome'`)
 
